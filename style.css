@@ -54,11 +54,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 .input-field input {
   width: 100%;
-  max-width: 400px;
+  /* max-width: 400px; */
   padding: 12px 20px;
   border-radius: 50px;
   border: 1px solid rgba(255, 255, 255, 0.3);

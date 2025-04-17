@@ -14,8 +14,7 @@ A simple yet powerful To-Do List web application built using **HTML**, **CSS**, 
 - 🖱️ Buttons with icons for better UX
 
 ## 🚀 Live Preview
-
-> *(If hosted)*  
+ 
 [Live Demo](https://to-do-app-lime-mu.vercel.app/)
 
 
